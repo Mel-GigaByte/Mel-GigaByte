@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Mel-GigaByte
-- 👀 I’m interested in learning to code 
-- 🌱 I have qualified in a number of languages 
-- 💞️ I’m looking to collaborate on how code is used within a program or application and how different interfaces are used
-- 📫 you can reach me via email melanierichter798@gmail.com 
+- 👋 Hi, I am a growing Frontend and Mobile App Developer.
+- 👀 I’m interested in working/collaborating with like minded individuals and gaining knowledge from experienced developers.
+- 🌱 I have qualified in a number of languages/frameworks and am currently studying Dart, Flutter and React Native.
+- 💞️ I am looking to connect with other developers and businesses to grow my career within the industry.
+- 📫 You can reach me via Email: melanierichter798@gmail.com / LinkedIn: https://www.linkedin.com/in/melanie-richter-577978213 / Phone: 081 009 3409.
 
 <!---
 Mel-GigaByte/Mel-GigaByte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
